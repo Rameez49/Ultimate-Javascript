@@ -6,4 +6,4 @@ function showNumber(number){
        (i%2==0)?console.log(i,"Even") : console.log(i,"Odd");;
    }
 }
-showNumber(200);
+showNumber(10);
